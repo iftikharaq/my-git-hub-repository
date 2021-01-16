@@ -1,3 +1,3 @@
 # my-git-hub-repository
 This is my git hub repository for learning the Github
-edited locally
+This life was modified locally to fix conflict
